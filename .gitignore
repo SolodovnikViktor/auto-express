@@ -14,7 +14,7 @@ wp-content/*
 !wp-content/themes/
 !wp-content/uploads/
 !wp-config.php
-.htaccess
+!.htaccess
 !index.php
 
 # ignore all mu-plugins, plugins, and themes
